@@ -1,0 +1,8 @@
+[05-Sep-2025 02:02:37 UTC] PHP Warning:  Undefined array key "email" in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[05-Sep-2025 02:02:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[05-Sep-2025 16:42:37 UTC] PHP Warning:  Undefined array key "email" in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[05-Sep-2025 16:42:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[05-Sep-2025 22:04:04 UTC] PHP Warning:  Undefined array key "email" in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[05-Sep-2025 22:04:04 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[06-Sep-2025 00:42:23 UTC] PHP Warning:  Undefined array key "email" in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12
+[06-Sep-2025 00:42:23 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/loopring47/fincrade.com/partner/forgot-password.php on line 12

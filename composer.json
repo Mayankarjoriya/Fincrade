@@ -1,0 +1,17 @@
+{
+    "name": "mayank-rajoriya/fincrade-2",
+    "autoload": {
+        "psr-4": {
+            "MayankRajoriya\\Fincrade2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mayankarjoriya",
+            "email": "mayankrajoriya2004@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
